@@ -1,0 +1,19 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = __importDefault(require("express"));
+const usuarios_controller_1 = require("../controllers/usuarios.controller");
+const router = express_1.default.Router();
+router.get('/', usuarios_controller_1.obtenerUsuario);
+router.post('/', usuarios_controller_1.crearUsuario);
+router.get('/:id', usuarios_controller_1.obtenerUsuarioPorId);
+router.put('/:id/carrito', usuarios_controller_1.añadirMiCarrito);
+router.put('/:id/ordenes', usuarios_controller_1.añadirOrden);
+router.put('/:id/eliminar-de-carrito', usuarios_controller_1.eliminarProductoCarrito);
+router.put('/:id/eliminar-de-lista-deseos', usuarios_controller_1.eliminarProductoListaDeseos);
+router.put('/:id/lista-deseos', usuarios_controller_1.añadirMiListaDeDeseos);
+router.put('/:id/eliminar-carrito', usuarios_controller_1.eliminarCarrito);
+router.put('/:id/eliminar-ordenes', usuarios_controller_1.eliminarOrdenes);
+exports.default = router;
