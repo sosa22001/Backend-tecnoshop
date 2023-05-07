@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "nombre": "Computadoras",
+  "imagen": "ordenador-portatil.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75ad"
+    },
+    {
+      "$oid": "64533ac3be68cadabcde75af"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448af"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b2"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b6"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d478"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca441"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca443"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645321bdbe68cadabc91ce20"
+  },
+  "nombre": "Celulares",
+  "imagen": "smartphone.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75ae"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448ae"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d477"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca442"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645321bdbe68cadabc91ce21"
+  },
+  "nombre": "TV",
+  "imagen": "smart-tv.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75b1"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b5"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d47a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645321bdbe68cadabc91ce22"
+  },
+  "nombre": "consolas",
+  "imagen": "consola.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75b0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645321bdbe68cadabc91ce23"
+  },
+  "nombre": "Tablets",
+  "imagen": "tableta.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75b2"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b0"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d479"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645321bdbe68cadabc91ce24"
+  },
+  "nombre": "Relojes Inteligentes",
+  "imagen": "smart-watch.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75b3"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b1"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d47b"
+    }
+  ]
+}]

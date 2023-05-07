@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "64552b6f9e8f91102fcaf56b"
+  },
+  "primerNombre": "chelsy",
+  "primerApellido": "flores",
+  "email": "chelsyfloresmartinez@gmail.com",
+  "contraseña": "1234",
+  "telefono": "9599-5218",
+  "añosDeExperiencia": 4,
+  "pedidosEntregados": [
+    "64571f5a1e86f401239b6b11"
+  ],
+  "__v": 1,
+  "aprobado": true,
+  "carro": "true",
+  "moto": "true"
+},{
+  "_id": {
+    "$oid": "645588478bcfcd7f3dfa17ed"
+  },
+  "primerNombre": "noe",
+  "primerApellido": "sosa",
+  "email": "elmer@gmail.com",
+  "contraseña": "okok",
+  "telefono": "9501-1087",
+  "añosDeExperiencia": 2,
+  "pedidosEntregados": [
+    "64571edc1e86f401239b6af3"
+  ],
+  "aprobado": true,
+  "carro": "false",
+  "moto": "true",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "645663a752829e7b29de591a"
+  },
+  "primerNombre": "noemi",
+  "primerApellido": "sosa",
+  "email": "chelsy@gmail.com",
+  "contraseña": "1234",
+  "telefono": "9599-5218",
+  "añosDeExperiencia": 2,
+  "pedidosEntregados": [],
+  "aprobado": true,
+  "carro": "true",
+  "moto": "true",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6456645a52829e7b29de5928"
+  },
+  "primerNombre": "Elmer",
+  "primerApellido": "Sosa",
+  "email": "elmer@gmail.com",
+  "contraseña": "okok",
+  "telefono": "9501-1087",
+  "añosDeExperiencia": 9,
+  "pedidosEntregados": [],
+  "aprobado": true,
+  "carro": "true",
+  "moto": "true",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6456654852829e7b29de593b"
+  },
+  "primerNombre": "gelen",
+  "primerApellido": "amador",
+  "email": "gelen@gmail.com",
+  "contraseña": "okok",
+  "telefono": "0000-0000",
+  "añosDeExperiencia": 3,
+  "pedidosEntregados": [],
+  "aprobado": true,
+  "carro": "true",
+  "moto": "true",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6456b6fbaa686e0852d42b77"
+  },
+  "primerNombre": "paolo",
+  "primerApellido": "sosa",
+  "email": "ken@gmail.com",
+  "contraseña": "1234",
+  "telefono": "1111-2222",
+  "añosDeExperiencia": 10,
+  "pedidosEntregados": [],
+  "aprobado": true,
+  "carro": "true",
+  "moto": "true",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6456b83aaa686e0852d42b81"
+  },
+  "primerNombre": "Elmer",
+  "primerApellido": "sosa",
+  "email": "juan@gmail.com",
+  "contraseña": "yuli",
+  "telefono": "9501-1087",
+  "añosDeExperiencia": 5,
+  "pedidosEntregados": [],
+  "aprobado": true,
+  "carro": "false",
+  "moto": "false",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64574e38c5028678a8e1c910"
+  },
+  "primerNombre": "lesly",
+  "primerApellido": "contreras",
+  "email": "lesly@gmail.com",
+  "contraseña": "1234",
+  "telefono": "0000-0000",
+  "añosDeExperiencia": 17,
+  "aprobado": true,
+  "carro": "true",
+  "moto": "true",
+  "pedidosEntregados": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6457a80e6788a70ac316ca7c"
+  },
+  "primerNombre": "Kenneth",
+  "primerApellido": "Colindres",
+  "email": "kenneth@gmail.com",
+  "contraseña": "1234",
+  "telefono": "9813-8001",
+  "añosDeExperiencia": 3,
+  "aprobado": true,
+  "carro": "false",
+  "moto": "false",
+  "pedidosEntregados": [],
+  "__v": 0
+}]

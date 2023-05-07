@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  },
+  "nombre": "Apple",
+  "descripcion": "Empresa que diseña y fabrica productos electrónicos de alta calidad, incluyendo el iPhone, iPad, Mac, Apple Watch, y Apple TV.",
+  "imagen": "apple.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75ae"
+    },
+    {
+      "$oid": "64533ac3be68cadabcde75b2"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448ae"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448af"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b0"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b1"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b2"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b3"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b5"
+    },
+    {
+      "$oid": "64533c8abe68cadabce448b6"
+    }
+  ],
+  "telefono": "+504 2222-1111",
+  "region": "China"
+},{
+  "_id": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  },
+  "nombre": "Samsung",
+  "descripcion": "Empresa surcoreana que se dedica a la fabricación de productos electrónicos, como teléfonos inteligentes, televisores y electrodomésticos.",
+  "imagen": "samsung.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75b1"
+    },
+    {
+      "$oid": "64533ac3be68cadabcde75b3"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d477"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d478"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d479"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d47a"
+    },
+    {
+      "$oid": "64533e3dbe68cadabce9d47b"
+    }
+  ],
+  "telefono": "+504 3333-2222",
+  "region": "Francia"
+},{
+  "_id": {
+    "$oid": "6453402ebe68cadabceff7ef"
+  },
+  "nombre": "Lenovo",
+  "descripcion": "Empresa china de tecnología que se dedica a la fabricación de ordenadores, tablets, smartphones y servidores.",
+  "imagen": "lenovo.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75ad"
+    }
+  ],
+  "telefono": "+504 4444-3333",
+  "region": "Italia"
+},{
+  "_id": {
+    "$oid": "6453402ebe68cadabceff7f0"
+  },
+  "nombre": "LG",
+  "descripcion": "Empresa surcoreana que fabrica productos electrónicos, electrodomésticos y dispositivos móviles.",
+  "imagen": "lg.png",
+  "productos": [
+    {
+      "$oid": "64533c8abe68cadabce448b4"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca441"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca442"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca443"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca444"
+    },
+    {
+      "$oid": "64533f1ebe68cadabceca445"
+    }
+  ],
+  "telefono": "+504 5555-4444",
+  "region": "Honduras"
+},{
+  "_id": {
+    "$oid": "6453402ebe68cadabceff7f1"
+  },
+  "nombre": "PlayStation",
+  "descripcion": "Marca de consolas de videojuegos creada por Sony Interactive Entertainment. La marca es conocida por sus populares consolas como la PlayStation, PlayStation 2, PlayStation 3 y PlayStation 4.",
+  "imagen": "playstation.png",
+  "productos": [
+    {
+      "$oid": "64533ac3be68cadabcde75b0"
+    }
+  ],
+  "telefono": "+504 6666-5555",
+  "region": "España"
+},{
+  "_id": {
+    "$oid": "6456dbad90dc92ec69dd9ef4"
+  },
+  "nombre": "barca",
+  "descripcion": "buena y perrona empresa si",
+  "imagen": "",
+  "productos": [],
+  "telefono": "+504 9501-1087",
+  "region": "uruguay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6457a6646788a70ac316ca02"
+  },
+  "nombre": "Hola",
+  "descripcion": "Buena empresa",
+  "imagen": "",
+  "productos": [],
+  "telefono": "+504 0000000",
+  "region": "Honduras",
+  "__v": 0
+}]

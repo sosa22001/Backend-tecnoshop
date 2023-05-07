@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "nombre": "Elmer",
+  "apellido": "Sosa",
+  "email": "sosa66093@gmail.com",
+  "telefono": "9501-1087",
+  "contraseña": "1234",
+  "__v": 417,
+  "miCarrito": [],
+  "miListaDeseos": [],
+  "ordenes": [],
+  "pedidos": [],
+  "direccion": "Residencial Palmira, casa #3202",
+  "tarjetaDeCredito": "4548032003933011"
+}]

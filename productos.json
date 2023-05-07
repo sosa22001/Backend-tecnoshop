@@ -1,0 +1,391 @@
+[{
+  "_id": {
+    "$oid": "64533ac3be68cadabcde75ad"
+  },
+  "nombre": "Laptop Lenovo Ideapad 5",
+  "descripcion": "Laptop con procesador Intel Core i5, memoria RAM de 8 GB y almacenamiento SSD de 512 GB",
+  "imagen": "imagen1.png",
+  "precio": 22300,
+  "subCategorias": "educacion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ef"
+  }
+},{
+  "_id": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "nombre": "iPhone 13",
+  "descripcion": "Smartphone con pantalla Super Retina XDR de 6,1 pulgadas, procesador A15 Bionic y cámara dual de 12 MP",
+  "imagen": "imagen2.png",
+  "precio": 29999,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce20"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533ac3be68cadabcde75af"
+  },
+  "nombre": "Computadora de escritorio HP Pavilion",
+  "descripcion": "Computadora de escritorio con procesador Intel Core i7, memoria RAM de 16 GB y almacenamiento HDD de 1 TB",
+  "imagen": "imagen3.png",
+  "precio": 19500,
+  "subCategorias": "educacion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6454197f9830fc69dbb9b244"
+  }
+},{
+  "_id": {
+    "$oid": "64533ac3be68cadabcde75b0"
+  },
+  "nombre": "Consola de videojuegos PlayStation 5",
+  "descripcion": "Consola de videojuegos con procesador AMD Zen 2 y gráficos AMD RDNA 2, capacidad de almacenamiento SSD de 825 GB",
+  "imagen": "imagen2.png",
+  "precio": 25000,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce22"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7f1"
+  }
+},{
+  "_id": {
+    "$oid": "64533ac3be68cadabcde75b1"
+  },
+  "nombre": "Televisión Samsung QLED 4K",
+  "descripcion": "Televisión con pantalla QLED de 65 pulgadas, resolución 4K y tecnología Quantum HDR",
+  "imagen": "imagen1.png",
+  "precio": 18700,
+  "subCategorias": "hogar",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce21"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  }
+},{
+  "_id": {
+    "$oid": "64533ac3be68cadabcde75b2"
+  },
+  "nombre": "Tablet Apple iPad Pro",
+  "descripcion": "Tablet con pantalla Liquid Retina de 11 pulgadas, procesador M1 y cámara trasera de 12 MP",
+  "imagen": "imagen3.png",
+  "precio": 12999,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce23"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533ac3be68cadabcde75b3"
+  },
+  "nombre": "Smartwatch Samsung Galaxy Watch 4",
+  "descripcion": "Reloj inteligente con pantalla AMOLED de 1,4 pulgadas, monitor de frecuencia cardíaca y seguimiento de actividad",
+  "imagen": "imagen1.png",
+  "precio": 6500,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce24"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448ae"
+  },
+  "nombre": "iPhone 13 Pro",
+  "descripcion": "Smartphone con pantalla Super Retina XDR de 6,1 pulgadas, procesador A15 Bionic y cámara triple de 12 MP",
+  "imagen": "imagen3.png",
+  "precio": 25000,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce20"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448af"
+  },
+  "nombre": "MacBook Air",
+  "descripcion": "Laptop ultradelgada con procesador M1, memoria RAM de 8 GB y almacenamiento SSD de 256 GB",
+  "imagen": "imagen1.png",
+  "precio": 50000,
+  "subCategorias": "educacion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448b0"
+  },
+  "nombre": "iPad Pro",
+  "descripcion": "Tablet con pantalla Liquid Retina de 12,9 pulgadas, procesador M1 y almacenamiento SSD de 1 TB",
+  "imagen": "imagen2.png",
+  "precio": 11200,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce23"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448b1"
+  },
+  "nombre": "Apple Watch Series 7",
+  "descripcion": "Reloj inteligente con pantalla Retina siempre activa, sensor de oxígeno en sangre y seguimiento avanzado de actividad",
+  "imagen": "imagen2.png",
+  "precio": 8999,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce24"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448b2"
+  },
+  "nombre": "iMac 24 pulgadas",
+  "descripcion": "Computadora de escritorio con pantalla Retina 4,5K de 24 pulgadas, procesador M1 y almacenamiento SSD de 256 GB",
+  "imagen": "imagen3.png",
+  "precio": 35000,
+  "subCategorias": "educacion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448b3"
+  },
+  "nombre": "AirPods Max",
+  "descripcion": "Audífonos inalámbricos con sonido envolvente y cancelación activa de ruido",
+  "imagen": "imagen1.png",
+  "precio": 6000,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "6453fd4edd96baabc08a5e35"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448b4"
+  },
+  "nombre": "HomePod mini",
+  "descripcion": "Altavoz inteligente con calidad de sonido excepcional y asistente virtual Siri integrado",
+  "imagen": "imagen2.png",
+  "precio": 3000,
+  "subCategorias": "hogar",
+  "categoria": {
+    "$oid": "6453fd92dd96baabc08a5e39"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448b5"
+  },
+  "nombre": "Apple TV 4K",
+  "descripcion": "Reproductor de streaming con calidad de imagen 4K y soporte para contenido HDR",
+  "imagen": "imagen1.png",
+  "precio": 15000,
+  "subCategorias": "hogar",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce21"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533c8abe68cadabce448b6"
+  },
+  "nombre": "Mac Pro",
+  "descripcion": "Computadora de escritorio de alta gama con procesador Intel Xeon, memoria RAM de 32 GB y almacenamiento SSD de 1 TB",
+  "imagen": "imagen3.png",
+  "precio": 36666,
+  "subCategorias": "educacion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ed"
+  }
+},{
+  "_id": {
+    "$oid": "64533e3dbe68cadabce9d477"
+  },
+  "nombre": "Samsung Galaxy S21",
+  "descripcion": "Celular de alta gama con pantalla AMOLED de 6.2 pulgadas, cámara de 64MP y procesador Exynos 2100",
+  "imagen": "imagen1.png",
+  "precio": 28999,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce20"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  }
+},{
+  "_id": {
+    "$oid": "64533e3dbe68cadabce9d478"
+  },
+  "nombre": "Samsung Notebook 9 Pro",
+  "descripcion": "Laptop 2 en 1 con pantalla táctil de 13.3 pulgadas, procesador Intel Core i7 y 16GB de RAM",
+  "imagen": "imagen2.png",
+  "precio": 18799,
+  "subCategorias": "educacion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  }
+},{
+  "_id": {
+    "$oid": "64533e3dbe68cadabce9d479"
+  },
+  "nombre": "Samsung Galaxy Tab S7",
+  "descripcion": "Tablet con pantalla de 11 pulgadas, procesador Qualcomm Snapdragon 865+ y S Pen incluido",
+  "imagen": "imagen1.png",
+  "precio": 11999,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce23"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  }
+},{
+  "_id": {
+    "$oid": "64533e3dbe68cadabce9d47a"
+  },
+  "nombre": "Samsung Smart TV 4K",
+  "descripcion": "Televisor de 55 pulgadas con resolución 4K y tecnología HDR10+",
+  "imagen": "imagen3.png",
+  "precio": 20999,
+  "subCategorias": "hogar",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce21"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  }
+},{
+  "_id": {
+    "$oid": "64533e3dbe68cadabce9d47b"
+  },
+  "nombre": "Samsung Galaxy Watch 4",
+  "descripcion": "Smartwatch con pantalla AMOLED de 1.4 pulgadas, seguimiento de actividad física y resistencia al agua",
+  "imagen": "galaxy-watch-4.png",
+  "precio": 7999,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce24"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7ee"
+  }
+},{
+  "_id": {
+    "$oid": "64533f1ebe68cadabceca441"
+  },
+  "nombre": "LG Gram",
+  "descripcion": "Laptop ultra delgada con procesador Intel Core i5, 8GB de RAM y 256GB de almacenamiento SSD",
+  "imagen": "lg-gram.jpg",
+  "precio": 3999,
+  "subCategorias": "educacion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7f0"
+  }
+},{
+  "_id": {
+    "$oid": "64533f1ebe68cadabceca442"
+  },
+  "nombre": "LG K92 5G",
+  "descripcion": "Celular con pantalla Full HD de 6.7 pulgadas, cámara trasera cuádruple de 64MP y batería de 4000mAh",
+  "imagen": "lg-k92-5g.png",
+  "precio": 3499,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce20"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7f0"
+  }
+},{
+  "_id": {
+    "$oid": "64533f1ebe68cadabceca443"
+  },
+  "nombre": "LG UltraGear",
+  "descripcion": "Monitor gamer de 27 pulgadas con resolución QHD, tiempo de respuesta de 1ms y tasa de refresco de 144Hz",
+  "imagen": "lg-ultragear.jpg",
+  "precio": 3899,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7f0"
+  }
+},{
+  "_id": {
+    "$oid": "64533f1ebe68cadabceca444"
+  },
+  "nombre": "LG Tone Free",
+  "descripcion": "Audífonos inalámbricos con tecnología de cancelación de ruido y certificación de resistencia al agua y al sudor",
+  "imagen": "lg-tone-free.png",
+  "precio": 2299,
+  "subCategorias": "diversion",
+  "categoria": {
+    "$oid": "6453ffa6dd96baabc08a5e51"
+  },
+  "empresa": {
+    "$oid": "645321bdbe68cadabc91ce1f"
+  }
+},{
+  "_id": {
+    "$oid": "64533f1ebe68cadabceca445"
+  },
+  "nombre": "LG Xboom",
+  "descripcion": "Parlante portátil con batería de larga duración, resistencia al agua y sonido de alta fidelidad",
+  "imagen": "lg-xboom.png",
+  "precio": 2799,
+  "subCategorias": "hogar",
+  "categoria": {
+    "$oid": "645401c59830fc69dbb9b242"
+  },
+  "empresa": {
+    "$oid": "6453402ebe68cadabceff7f0"
+  }
+}]

@@ -1,0 +1,305 @@
+[{
+  "_id": {
+    "$oid": "64571edc1e86f401239b6af3"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ad"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 5,
+  "total": 10939.5,
+  "impuesto": 994.5,
+  "fecha": "21:45:32",
+  "status": "tomada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64571edf1e86f401239b6af5"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ad"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 5,
+  "total": 10939.5,
+  "impuesto": 994.5,
+  "fecha": "21:45:35",
+  "status": "tomada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64571ee01e86f401239b6af7"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ad"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 5,
+  "total": 10939.5,
+  "impuesto": 994.5,
+  "fecha": "21:45:36",
+  "status": "tomada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64571f391e86f401239b6b04"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 4,
+  "total": 131995.6,
+  "impuesto": 11999.6,
+  "fecha": "21:47:05",
+  "status": "tomada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64571f5a1e86f401239b6b11"
+  },
+  "producto": {
+    "$oid": "64533c8abe68cadabce448ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 3,
+  "total": 82500,
+  "impuesto": 7500,
+  "fecha": "21:47:38",
+  "status": "tomada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64571f7e1e86f401239b6b1e"
+  },
+  "producto": {
+    "$oid": "64533c8abe68cadabce448ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 4,
+  "total": 110000,
+  "impuesto": 10000,
+  "fecha": "21:48:14",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645720481e86f401239b6b2a"
+  },
+  "producto": {
+    "$oid": "64533c8abe68cadabce448b0"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 333,
+  "total": 4102560,
+  "impuesto": 372960,
+  "fecha": "21:51:36",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6457232f1e86f401239b6b6c"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 3,
+  "total": 98996.7,
+  "impuesto": 8999.7,
+  "fecha": "22:03:59",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645726c31e86f401239b6bd3"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 4,
+  "total": 131995.6,
+  "impuesto": 11999.6,
+  "fecha": "22:19:15",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572e361e86f401239b6cba"
+  },
+  "producto": {
+    "$oid": "64533c8abe68cadabce448af"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 4,
+  "total": 220000,
+  "impuesto": 20000,
+  "fecha": "22:51:02",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645732161e86f401239b6d45"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75b1"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 1,
+  "total": 20570,
+  "impuesto": 1870,
+  "fecha": "23:07:34",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6457335f1e86f401239b6d52"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 3,
+  "total": 98996.7,
+  "impuesto": 8999.7,
+  "fecha": "23:13:03",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6457338f1e86f401239b6d61"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 1,
+  "total": 32998.9,
+  "impuesto": 2999.9,
+  "fecha": "23:13:51",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645733e31e86f401239b6d71"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 1,
+  "total": 32998.9,
+  "impuesto": 2999.9,
+  "fecha": "23:15:15",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645734051e86f401239b6d7f"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 2,
+  "total": 65997.8,
+  "impuesto": 5999.8,
+  "fecha": "23:15:49",
+  "status": "En el destino",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645734351e86f401239b6d8e"
+  },
+  "producto": {
+    "$oid": "64533ac3be68cadabcde75ae"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 2,
+  "total": 65997.8,
+  "impuesto": 5999.8,
+  "fecha": "23:16:37",
+  "status": "tomada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6457368b1e86f401239b6db4"
+  },
+  "producto": {
+    "$oid": "64533e3dbe68cadabce9d47b"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 2,
+  "total": 17597.8,
+  "impuesto": 1599.8000000000002,
+  "fecha": "23:26:35",
+  "status": "tomada",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64579f946788a70ac316c904"
+  },
+  "producto": {
+    "$oid": "64533c8abe68cadabce448b1"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 2,
+  "total": 19797.8,
+  "impuesto": 1799.8000000000002,
+  "fecha": "06:54:44",
+  "status": "Pendiente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6457a7866788a70ac316ca40"
+  },
+  "producto": {
+    "$oid": "64533c8abe68cadabce448af"
+  },
+  "usuario": {
+    "$oid": "6438b4a2185b180248fa54f9"
+  },
+  "cantidad": 5,
+  "total": 275000,
+  "impuesto": 25000,
+  "fecha": "07:28:38",
+  "status": "Pendiente",
+  "__v": 0
+}]
